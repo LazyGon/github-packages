@@ -6,7 +6,7 @@ To access packages in this repository, use this:
 <repositories>
   <repository>
     <id>github-public</id>
-    <url>https://public:&#103;hp_0dK93XHwVDCC8VjqKj9GLDr9feFxmt40H9ni@maven.pkg.github.com/lazygon/github-packages</url>
+    <url>https://public:&#103;hp_0dK93XHwVDCC8VjqKj9GLDr9feFxmt40H9ni@maven.pkg.github.com/lazygon/*</url>
   </repository>
 </repositories>
 ```
